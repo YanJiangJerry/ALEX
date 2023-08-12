@@ -1,0 +1,7 @@
+To access the dataset, please contact the SMM4H 2023 at:
+https://healthlanguageprocessing.org/smm4h-2023/
+
+After geting the dataset, check the format
+(training dataset for task 2 may contain invalid label)
+convert them into tsv format with only the necessary columns
+and arrange them in folder for each task like 1, 2, 4

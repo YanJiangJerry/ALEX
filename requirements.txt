@@ -1,0 +1,14 @@
+pandas
+transformers[torch]
+accelerate -U
+sklearn
+evaluate
+datasets
+emoji
+tensorboardX
+crc32c
+soundfile
+sentencepiece
+textattack
+imblearn
+matplotlib

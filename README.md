@@ -1,5 +1,5 @@
 # ALEX
-Code for ADC 2023 paper [Balanced and Explainable Social Media Analysis for Public Health with Large Language Models](http://arxiv.org/abs/2309.05951) and SMM4H Competition at AMIA 2023 paper [UQ at #SMM4H 2023: ALEX for Public Health Analysis with Social Media](http://arxiv.org/abs/2309.04213),
+Code for ADC 2023 paper [Balanced and Explainable Social Media Analysis for Public Health with Large Language Models](http://arxiv.org/abs/2309.05951) and SMM4H Competition at AMIA 2023 paper [UQ at #SMM4H 2023: ALEX for Public Health Analysis with Social Media](http://arxiv.org/abs/2309.04213).
 
 # Usage
 

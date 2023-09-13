@@ -1,3 +1,29 @@
 # ALEX
-This is the repository for ALEX: Augmentation and Large language model methods for EXplainable social media analysis about public health.
-After getting the datasets, you can simply modify the dataset file path and OPENAI API and run by simply clicking run all in the notebook.
+Code for ADC 2023 paper [Balanced and Explainable Social Media Analysis for Public Health with Large Language Models](http://arxiv.org/abs/2309.05951) and SMM4H Competition at AMIA 2023 paper [UQ at #SMM4H 2023: ALEX for Public Health Analysis with Social Media](http://arxiv.org/abs/2309.04213),
+
+# Usage
+
+Apply and Download datasets from [SMM4H](https://healthlanguageprocessing.org/smm4h-2023/) and put the files in `./dataset/` folder.
+You can use Colab to run each notebook one by one(recommended using Colab Pro which has A100).
+
+# Cite
+
+If you find this repo useful, please cite
+```
+@article{ALEX1,
+  author       = {Yan Jiang and Ruihong Qiu and Yi Zhang and Zi Huang},
+  title        = {UQ at #SMM4H 2023: ALEX for Public Health Analysis with Social Media [arXiv: 2309.04213]},
+  journal      = {AMIA},
+  volume       = {abs/2309.04213},
+  year         = {2023},
+}
+
+@article{ALEX2,
+  author       = {Yan Jiang and Ruihong Qiu and Yi Zhang and Peng-Fei Zhang},
+  title        = {Balanced and Explainable Social Media Analysis for Public Health with Large Language Models [arXiv: 2309.05951]},
+  journal      = {ADC},
+  volume       = {abs/2309.05951},
+  year         = {2023},
+}
+
+```

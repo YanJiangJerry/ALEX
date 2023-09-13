@@ -12,7 +12,7 @@ If you find this repo useful, please cite
 ```
 @article{ALEX1,
   author       = {Yan Jiang and Ruihong Qiu and Yi Zhang and Zi Huang},
-  title        = {UQ at #SMM4H 2023: ALEX for Public Health Analysis with Social Media [arXiv: 2309.04213]},
+  title        = {UQ at #SMM4H 2023: ALEX for Public Health Analysis with Social Media},
   journal      = {AMIA},
   volume       = {abs/2309.04213},
   year         = {2023},
@@ -20,7 +20,7 @@ If you find this repo useful, please cite
 
 @article{ALEX2,
   author       = {Yan Jiang and Ruihong Qiu and Yi Zhang and Peng-Fei Zhang},
-  title        = {Balanced and Explainable Social Media Analysis for Public Health with Large Language Models [arXiv: 2309.05951]},
+  title        = {Balanced and Explainable Social Media Analysis for Public Health with Large Language Models},
   journal      = {ADC},
   volume       = {abs/2309.05951},
   year         = {2023},
